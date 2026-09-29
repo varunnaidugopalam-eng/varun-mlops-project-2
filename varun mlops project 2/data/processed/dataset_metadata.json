@@ -1,0 +1,9 @@
+{
+    "original_rows": 1000,
+    "original_columns": 10,
+    "training_rows": 800,
+    "testing_rows": 200,
+    "features": 12,
+    "target": "pass",
+    "target_definition": "1 if average score >= 50, otherwise 0"
+}
